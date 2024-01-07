@@ -395,10 +395,9 @@ input[type="checkbox"]{
         font-size: 1.1rem;
         margin-left: 40px;
         color: rgb(228, 228, 221);
-        background-color: #000000;
+        background-color: transparent;
         border-radius: 10px;
         margin-bottom: 10px;
-        box-shadow: inset -3px -3px 5px #00000042,inset 5px 5px 7px rgb(174, 170, 170);
         border: 1px solid white;
         border-radius: 20px;
         cursor: pointer;
