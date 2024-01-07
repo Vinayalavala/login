@@ -337,6 +337,11 @@ input[type="checkbox"]{
 
 @media  only screen and (max-width:480px) {
 
+    body{
+        background: url("background.jpg") center no-repeat;
+        background-size: cover;
+    }
+
     .wrapper{
         margin: 10px;
         transition: ease 0.3s;
