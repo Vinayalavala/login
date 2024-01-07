@@ -339,8 +339,9 @@ input[type="checkbox"]{
 @media  only screen and (max-width:480px) {
 
     body{
-        background: url("wl.jpg") center no-repeat;
+        background: url("wl.jpeg") center no-repeat;
         background-size: cover;
+        background-color:black;
     }
 
     .wrapper{
