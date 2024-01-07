@@ -398,10 +398,10 @@ input[type="checkbox"]{
 
     .loginbtn{
         height: 30px;
-        width: 80%;
+        width: 40%;
         align-items: center;
         font-size: 1.1rem;
-        margin-left: 40px;
+        margin-left: 110px;
         color: rgb(228, 228, 221);
         background-color: transparent;
         border-radius: 10px;
