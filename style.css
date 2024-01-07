@@ -390,8 +390,9 @@ input[type="checkbox"]{
         flex-direction: row;
     }
 
-    .navigation a:hover::after{
-        display: none;
+    .navigation a::after {
+        background: rgb(234, 234, 234);
+        box-shadow: none;
     }
 
     .loginbtn{
