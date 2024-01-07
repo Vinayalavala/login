@@ -341,6 +341,7 @@ input[type="checkbox"]{
     body{
         background: url("wl.jpg") center no-repeat;
         background-size: cover;
+        height:78vh;
         background-color:black;
     }
 
